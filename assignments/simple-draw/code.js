@@ -37,6 +37,6 @@
 
 drawFilledRect(0, 0, 1000, 1000, 'black');
 
-drawFilledCircle(50, 50, 50, 'red');
+drawFilledCircle(50, 50, 50, 50, 'red');
 
 
