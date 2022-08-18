@@ -40,9 +40,9 @@ drawFilledRect(0, 0, 1000, 1000, 'black');
 
 
 drawFilledCircle(250, 200, 125, 'red');
-drawFilledCircle(250, 200, 75, 'lightblue');
-drawFilledCircle(150, 200, 75, 'lightblue');
-drawFilledRect(140, 125, 110, 150, 'lightblue');
+drawFilledCircle(250, 250, 75, 'lightblue');
+drawFilledCircle(150, 250, 75, 'lightblue');
+drawFilledRect(140, 175, 110, 150, 'lightblue');
 
 
 
