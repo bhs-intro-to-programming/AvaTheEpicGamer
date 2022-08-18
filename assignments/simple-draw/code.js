@@ -38,5 +38,6 @@
 drawFilledRect(0, 0, 1000, 1000, 'black');
 
 drawFilledCircle(250, 300, 75, 'lightblue');
+drawFilledCircle(200, 300, 75, 'lightblue');
 
 
