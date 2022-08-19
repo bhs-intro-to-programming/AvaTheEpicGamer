@@ -37,14 +37,18 @@
 
 drawFilledRect(0, 0, 1000, 1000, 'white');
 
-
+//main head circle
 drawFilledCircle(250, 200, 130, 'black');
+
+//main body square
 drawFilledRect(120, 190, 260, 290, 'black');
+
+//main backpack square
 drawFilledRect(175, 250, 255, 150, 'black');
 drawFilledRect(285, 480, 65, 60, 'black');
 drawFilledRect(150, 480, 65, 60, 'black');
-drawFilledRect(120, 400, 120, 120, 'black');
-drawFilledRect(260, 400, 120, 120, 'black');
+drawFilledRect(120, 400, 120, 115, 'black');
+drawFilledRect(260, 400, 120, 115, 'black');
 drawFilledCircle(390, 400, 40, 'black');
 drawFilledCircle(390, 250, 40, 'black');
 drawFilledCircle(150, 510, 30, 'black');
