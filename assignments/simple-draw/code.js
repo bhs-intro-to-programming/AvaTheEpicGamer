@@ -46,6 +46,7 @@ drawFilledRect(150, 480, 65, 60, 'black');
 drawFilledRect(120, 400, 120, 120, 'black');
 drawFilledRect(260, 400, 120, 120, 'black');
 drawFilledCircle(390, 400, 40, 'black');
+drawFilledCircle(390, 250, 40, 'black');
 
 
 drawFilledRect(125, 190, 250, 290, 'red');
