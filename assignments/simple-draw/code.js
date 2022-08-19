@@ -41,7 +41,7 @@ drawFilledRect(0, 0, 1000, 1000, 'white');
 drawFilledCircle(250, 200, 130, 'black');
 drawFilledRect(120, 190, 260, 290, 'black');
 drawFilledRect(175, 250, 255, 150, 'black');
-drawFilledRect(285, 480, 65, 55, 'black');
+drawFilledRect(285, 480, 65, 60, 'black');
 
 
 drawFilledRect(125, 190, 250, 290, 'red');
