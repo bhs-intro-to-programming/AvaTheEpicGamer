@@ -44,6 +44,7 @@ drawFilledRect(175, 250, 255, 150, 'black');
 drawFilledRect(285, 480, 65, 60, 'black');
 drawFilledRect(150, 480, 65, 60, 'black');
 drawFilledRect(120, 400, 120, 120, 'black');
+drawFilledRect(265, 400, 120, 120, 'black');
 
 
 drawFilledRect(125, 190, 250, 290, 'red');
