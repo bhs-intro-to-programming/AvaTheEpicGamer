@@ -38,7 +38,7 @@
 drawFilledRect(0, 0, 1000, 1000, 'black');
 
 
-drawFilledRect(125, 190, 250, 270, 'red');
+drawFilledRect(125, 190, 250, 290, 'red');
 drawFilledRect(175, 250, 250, 150, 'red');
 drawFilledRect(125, 400, 110, 110, 'red');
 drawFilledRect(265, 400, 110, 110, 'red');
