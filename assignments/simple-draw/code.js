@@ -49,7 +49,7 @@ drawFilledRect(175, 250, 250, 150, 'red');
 drawFilledRect(125, 400, 110, 110, 'red');
 drawFilledRect(265, 400, 110, 110, 'red');
 drawFilledRect(290, 480, 55, 55, 'red');
-drawFilledRect(150, 480, 55, 5, 'red');
+drawFilledRect(150, 480, 55, 55, 'red');
 
 drawFilledCircle(250, 200, 125, 'red');
 drawFilledCircle(150, 510, 25, 'red');
