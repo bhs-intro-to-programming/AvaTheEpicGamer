@@ -47,7 +47,10 @@ drawFilledRect(120, 400, 120, 120, 'black');
 drawFilledRect(260, 400, 120, 120, 'black');
 drawFilledCircle(390, 400, 40, 'black');
 drawFilledCircle(390, 250, 40, 'black');
-
+drawFilledCircle(150, 510, 30, 'black');
+drawFilledCircle(210, 510, 30, 'black');
+drawFilledCircle(290, 510, 30, 'black');
+drawFilledCircle(350, 510, 30, 'black');
 
 drawFilledRect(125, 190, 250, 290, 'red');
 drawFilledRect(175, 250, 250, 150, 'red');
@@ -55,16 +58,16 @@ drawFilledRect(125, 400, 110, 110, 'red');
 drawFilledRect(265, 400, 110, 110, 'red');
 drawFilledRect(290, 480, 55, 55, 'red');
 drawFilledRect(150, 480, 55, 55, 'red');
-
 drawFilledCircle(250, 200, 125, 'red');
 drawFilledCircle(150, 510, 25, 'red');
 drawFilledCircle(210, 510, 25, 'red');
-drawFilledCircle(250, 480, 15, 'black');
-drawFilledCircle(250, 480, 10, 'white');
 drawFilledCircle(290, 510, 25, 'red');
 drawFilledCircle(350, 510, 25, 'red');
 drawFilledCircle(390, 400, 35, 'red');
 drawFilledCircle(390, 250, 35, 'red');
+
+drawFilledCircle(250, 480, 15, 'black');
+drawFilledCircle(250, 480, 10, 'white');
 //visor outline:
 drawFilledCircle(250, 250, 80, 'black');
 drawFilledCircle(150, 250, 80, 'black');
