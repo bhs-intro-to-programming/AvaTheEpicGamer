@@ -38,6 +38,9 @@
 drawFilledRect(0, 0, 1000, 1000, 'white');
 
 
+drawFilledCircle(250, 200, 130, 'black');
+
+
 drawFilledRect(125, 190, 250, 290, 'red');
 drawFilledRect(175, 250, 250, 150, 'red');
 drawFilledRect(125, 400, 110, 110, 'red');
@@ -53,10 +56,11 @@ drawFilledCircle(290, 510, 25, 'red');
 drawFilledCircle(350, 510, 25, 'red');
 drawFilledCircle(390, 400, 35, 'red');
 drawFilledCircle(390, 250, 35, 'red');
+//visor outline:
 drawFilledCircle(250, 250, 80, 'black');
 drawFilledCircle(150, 250, 80, 'black');
 drawFilledRect(140, 170, 115, 160, 'black');
-
+//visor:
 drawFilledCircle(250, 250, 75, 'lightblue');
 drawFilledCircle(150, 250, 75, 'lightblue');
 drawFilledRect(140, 175, 110, 150, 'lightblue');
