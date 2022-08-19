@@ -51,7 +51,7 @@ drawFilledCircle(210, 510, 25, 'red');
 drawFilledCircle(290, 510, 25, 'red');
 drawFilledCircle(350, 510, 25, 'red');
 drawFilledCircle(390, 400, 35, 'red');
-drawFilledCircle(390, 200, 35, 'red');
+drawFilledCircle(390, 250, 35, 'red');
 drawFilledCircle(250, 250, 75, 'lightblue');
 drawFilledCircle(150, 250, 75, 'lightblue');
 drawFilledRect(140, 175, 110, 150, 'lightblue');
