@@ -43,5 +43,10 @@
     "name": "Area of a circle",
     "answer": "(Math.PI*r)^2",
     "correct": false
+  },
+  {
+    "name": "Area of a circle",
+    "answer": "(Math.PI*r)(Math.PI*r)",
+    "correct": false
   }
 ]
