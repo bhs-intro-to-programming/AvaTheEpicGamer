@@ -98,5 +98,10 @@
     "name": "Having fun?",
     "answer": "!fun>=!done",
     "correct": true
+  },
+  {
+    "name": "Not feeling it?",
+    "answer": "!tired>=!fun",
+    "correct": false
   }
 ]
