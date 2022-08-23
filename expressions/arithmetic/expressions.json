@@ -18,5 +18,10 @@
     "name": "Ratio",
     "answer": "a/b",
     "correct": true
+  },
+  {
+    "name": "Remainder",
+    "answer": "a%b",
+    "correct": true
   }
 ]
