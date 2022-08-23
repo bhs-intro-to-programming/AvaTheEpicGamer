@@ -83,5 +83,10 @@
     "name": "Having fun?",
     "answer": "fun>done",
     "correct": false
+  },
+  {
+    "name": "Having fun?",
+    "answer": "fun||done",
+    "correct": false
   }
 ]
