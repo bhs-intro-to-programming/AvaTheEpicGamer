@@ -93,5 +93,10 @@
     "name": "Lighting a fire?",
     "answer": "fireLie||HaveMatches",
     "correct": false
+  },
+  {
+    "name": "Lighting a fire?",
+    "answer": "fireLit||HaveMatches",
+    "correct": false
   }
 ]
