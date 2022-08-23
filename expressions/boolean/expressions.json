@@ -1,0 +1,7 @@
+[
+  {
+    "name": "Time to sleep?",
+    "answer": "!sleepy&&!dark",
+    "correct": false
+  }
+]
