@@ -8,5 +8,10 @@
     "name": "Time to sleep?",
     "answer": "!sleepy||!dark",
     "correct": true
+  },
+  {
+    "name": "Doing well?",
+    "answer": "enoughSleep&keepingUp",
+    "correct": false
   }
 ]
