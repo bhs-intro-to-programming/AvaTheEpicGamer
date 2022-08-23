@@ -33,5 +33,10 @@
     "name": "Average of three",
     "answer": "(a+b+c)/3",
     "correct": true
+  },
+  {
+    "name": "General average",
+    "answer": "(total)/count",
+    "correct": true
   }
 ]
