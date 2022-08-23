@@ -28,5 +28,10 @@
     "name": "Average",
     "answer": "(a+b)/2",
     "correct": true
+  },
+  {
+    "name": "Average of three",
+    "answer": "(a+b+c)/3",
+    "correct": true
   }
 ]
