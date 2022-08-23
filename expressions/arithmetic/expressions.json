@@ -8,5 +8,10 @@
     "name": "Difference",
     "answer": "a-b",
     "correct": true
+  },
+  {
+    "name": "Product",
+    "answer": "a*b",
+    "correct": true
   }
 ]
