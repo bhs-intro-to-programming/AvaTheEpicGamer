@@ -13,5 +13,10 @@
     "name": "Product",
     "answer": "a*b",
     "correct": true
+  },
+  {
+    "name": "Ratio",
+    "answer": "a/b",
+    "correct": true
   }
 ]
