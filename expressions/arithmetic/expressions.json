@@ -3,5 +3,10 @@
     "name": "Sum",
     "answer": "a+b",
     "correct": true
+  },
+  {
+    "name": "Difference",
+    "answer": "a-b",
+    "correct": true
   }
 ]
