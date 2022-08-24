@@ -280,5 +280,11 @@
     "answer": "s.substring(3-s.length)",
     "correct": false,
     "timestamp": 1661379399821
+  },
+  {
+    "name": "First three",
+    "answer": "s.substring(s.length)",
+    "correct": false,
+    "timestamp": 1661379407567
   }
 ]
