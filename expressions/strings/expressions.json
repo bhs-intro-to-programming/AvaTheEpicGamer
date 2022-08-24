@@ -190,5 +190,11 @@
     "answer": "s.substring(2)-length",
     "correct": false,
     "timestamp": 1661379217754
+  },
+  {
+    "name": "First three",
+    "answer": "s.substring(3)-length",
+    "correct": false,
+    "timestamp": 1661379219067
   }
 ]
