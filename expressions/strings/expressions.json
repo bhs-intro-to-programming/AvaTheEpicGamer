@@ -256,5 +256,11 @@
     "answer": "s.length",
     "correct": false,
     "timestamp": 1661379356956
+  },
+  {
+    "name": "First three",
+    "answer": "s.substring(s.length)",
+    "correct": false,
+    "timestamp": 1661379368557
   }
 ]
