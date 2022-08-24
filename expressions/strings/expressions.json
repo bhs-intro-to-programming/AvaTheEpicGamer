@@ -88,5 +88,11 @@
     "answer": "'grue'+'bar'",
     "correct": false,
     "timestamp": 1661378669593
+  },
+  {
+    "name": "Concatenate (smoosh) strings",
+    "answer": "'s1'+'s2'",
+    "correct": false,
+    "timestamp": 1661378721690
   }
 ]
