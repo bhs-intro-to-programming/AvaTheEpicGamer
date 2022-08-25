@@ -94,5 +94,11 @@
     "answer": "s.substring(1)",
     "correct": false,
     "timestamp": 1661464744932
+  },
+  {
+    "name": "First character",
+    "answer": "s.substring(-1)",
+    "correct": false,
+    "timestamp": 1661464752757
   }
 ]
