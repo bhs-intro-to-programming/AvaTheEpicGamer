@@ -130,5 +130,11 @@
     "answer": "s[1]",
     "correct": false,
     "timestamp": 1661466363963
+  },
+  {
+    "name": "First character",
+    "answer": "s[0]",
+    "correct": true,
+    "timestamp": 1661466367093
   }
 ]
