@@ -706,5 +706,11 @@
     "answer": "s[0, 1].toUpperCase()",
     "correct": false,
     "timestamp": 1661464239034
+  },
+  {
+    "name": "Capitalize first three",
+    "answer": "s[0].toUpperCase()",
+    "correct": false,
+    "timestamp": 1661464246451
   }
 ]
