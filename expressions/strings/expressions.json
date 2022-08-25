@@ -76,5 +76,11 @@
     "answer": "s.subssting",
     "correct": false,
     "timestamp": 1661464718524
+  },
+  {
+    "name": "First character",
+    "answer": "s.subsstring",
+    "correct": false,
+    "timestamp": 1661464726948
   }
 ]
