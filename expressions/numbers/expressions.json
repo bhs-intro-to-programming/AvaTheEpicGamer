@@ -58,5 +58,11 @@
     "answer": "3.14159*2^2",
     "correct": false,
     "timestamp": 1661551076627
+  },
+  {
+    "name": "Area of cicrle with radius 2",
+    "answer": "(3.14159*2)*(3.14159*2)",
+    "correct": false,
+    "timestamp": 1661551104003
   }
 ]
