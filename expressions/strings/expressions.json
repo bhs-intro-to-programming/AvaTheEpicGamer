@@ -190,5 +190,11 @@
     "answer": "s",
     "correct": false,
     "timestamp": 1661551229833
+  },
+  {
+    "name": "All but first and last",
+    "answer": "s[1]",
+    "correct": false,
+    "timestamp": 1661551364252
   }
 ]
