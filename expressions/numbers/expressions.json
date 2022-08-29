@@ -70,5 +70,12 @@
     "answer": "(Math.PI*2)*(Math.PI*2)",
     "correct": false,
     "timestamp": 1661551125380
+  },
+  {
+    "name": "Ten",
+    "canonical": "10",
+    "answer": "10",
+    "correct": true,
+    "timestamp": 1661810160753
   }
 ]
