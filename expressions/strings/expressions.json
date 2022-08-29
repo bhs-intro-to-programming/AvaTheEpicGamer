@@ -75,5 +75,12 @@
     "answer": "s.subscript(0)",
     "correct": false,
     "timestamp": 1661811058570
+  },
+  {
+    "name": "First character",
+    "canonical": "s[0]",
+    "answer": "s[0].subscript()",
+    "correct": false,
+    "timestamp": 1661811076794
   }
 ]
