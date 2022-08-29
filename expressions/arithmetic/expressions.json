@@ -38,5 +38,12 @@
     "name": "General average",
     "answer": "(total)/count",
     "correct": true
+  },
+  {
+    "name": "Distance",
+    "canonical": "Math.abs(a - b)",
+    "answer": "Math.abs(a*b)",
+    "correct": false,
+    "timestamp": 1661810366005
   }
 ]
