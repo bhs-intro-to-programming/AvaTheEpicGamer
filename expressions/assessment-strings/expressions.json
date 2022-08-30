@@ -376,5 +376,12 @@
     "answer": "s[0].toUpperCase()+s[1].toUpperCase()+s[2].toUpperCase()+s[3].toLowerCase()",
     "correct": false,
     "timestamp": 1661898008844
+  },
+  {
+    "name": "Capitalize first three",
+    "canonical": "s.substring(0,3).toUpperCase() + s.substring(3).toLowerCase()",
+    "answer": "s[0].toUpperCase()+s[1].toUpperCase()+s[2].toUpperCase()+s[3].toLowerCase()+s[4].toLowerCase()+s[5].toLowerCase()",
+    "correct": false,
+    "timestamp": 1661898047469
   }
 ]
