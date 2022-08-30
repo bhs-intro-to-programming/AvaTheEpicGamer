@@ -103,5 +103,12 @@
     "answer": "enoughSleep&&keepingUp",
     "correct": true,
     "timestamp": 1661896259766
+  },
+  {
+    "name": "Can go to prom?",
+    "canonical": "isSenior || invitedBySenior",
+    "answer": "isSenior||invtedBySenior",
+    "correct": false,
+    "timestamp": 1661896278622
   }
 ]
