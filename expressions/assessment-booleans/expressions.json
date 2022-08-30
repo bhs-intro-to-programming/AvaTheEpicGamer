@@ -68,5 +68,12 @@
     "answer": "member&&!outSick",
     "correct": true,
     "timestamp": 1661896164556
+  },
+  {
+    "name": "Not feeling it?",
+    "canonical": "!fun || tired",
+    "answer": "!fun||tired",
+    "correct": true,
+    "timestamp": 1661896177916
   }
 ]
