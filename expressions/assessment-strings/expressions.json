@@ -222,5 +222,12 @@
     "answer": "s[0].toUpperCase()+s[1].toUpperCase()+s[2].toUpperCase()+s.toLowerCase(s.substring(3), s.length)",
     "correct": false,
     "timestamp": 1661897535502
+  },
+  {
+    "name": "All but first",
+    "canonical": "s.substring(1)",
+    "answer": "s.substring(1)",
+    "correct": true,
+    "timestamp": 1661897561791
   }
 ]
