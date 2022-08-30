@@ -89,5 +89,12 @@
     "answer": "fireLit||!haveMatches",
     "correct": true,
     "timestamp": 1661896218589
+  },
+  {
+    "name": "Dragging?",
+    "canonical": "!enoughSleep && lotsOfWork",
+    "answer": "!enoughSleep&&lotsOfWork",
+    "correct": true,
+    "timestamp": 1661896242582
   }
 ]
