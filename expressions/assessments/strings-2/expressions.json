@@ -82,5 +82,12 @@
     "answer": "s[0].toUpperCase()+s[1].toUpperCase()+s[2].toUpperCase()+s.substring(3).toLowerCase()",
     "correct": true,
     "timestamp": 1662069685966
+  },
+  {
+    "name": "Last three",
+    "canonical": "s.substring(s.length - 3)",
+    "answer": "s.substring(s.length-3)",
+    "correct": true,
+    "timestamp": 1662069698454
   }
 ]
